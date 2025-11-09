@@ -1,0 +1,17 @@
+torch>=1.10
+torchvision
+transformers
+einops
+tqdm
+Pillow
+datasets
+nonechucks
+numpy
+einops_exts 
+kornia 
+omegaconf 
+jaxtyping 
+beartype 
+accelerate
+resize_right
+sentencepiece
